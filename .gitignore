@@ -1,4 +1,8 @@
 #firebase file
 app/google-services.json
-#builds
-app/build/*
+#folders
+build/
+.gradle/
+#files
+*.dex
+*.class
