@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">TSF2022</string>
+    <string name="app_title">TensorFlow + MLKit</string>
     <string name="face">Rostros</string>
     <string name="text">Textos</string>
     <string name="text_recognition">R.Texto</string>

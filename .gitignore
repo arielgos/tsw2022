@@ -1,2 +1,4 @@
-
+#firebase file
 app/google-services.json
+#builds
+app/build/*
