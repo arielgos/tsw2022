@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">886405585041-pqe27n8fkqcr94sk2s7si54kn13j7m8f.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://devfest-22f93.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">886405585041</string>
-    <string name="google_api_key" translatable="false">AIzaSyC1BXs0xK2f5zlROSyxYsbQEweYIBDck38</string>
-    <string name="google_app_id" translatable="false">1:886405585041:android:8dabe8b0e3861c2d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1BXs0xK2f5zlROSyxYsbQEweYIBDck38</string>
-    <string name="google_storage_bucket" translatable="false">devfest-22f93.appspot.com</string>
-    <string name="project_id" translatable="false">devfest-22f93</string>
+    <string name="default_web_client_id" translatable="false">554063712194-8hnm1go1lln02j5gd08eafkh8oeu5f22.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">554063712194</string>
+    <string name="google_api_key" translatable="false">AIzaSyDigTtFOMqeJRuyaZiJPXQGuWkwMtNohKs</string>
+    <string name="google_app_id" translatable="false">1:554063712194:android:ae623c2268ad7693b2505b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDigTtFOMqeJRuyaZiJPXQGuWkwMtNohKs</string>
+    <string name="google_storage_bucket" translatable="false">demos-87d35.appspot.com</string>
+    <string name="project_id" translatable="false">demos-87d35</string>
 </resources>

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.agos.devfest2018"
+        applicationId "com.agos.tsf2022"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

@@ -735,14 +735,13 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">886405585041-pqe27n8fkqcr94sk2s7si54kn13j7m8f.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">554063712194-8hnm1go1lln02j5gd08eafkh8oeu5f22.apps.googleusercontent.com</string>
     <string name="face">Rostros</string>
-    <string name="firebase_database_url" translatable="false">https://devfest-22f93.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">886405585041</string>
-    <string name="google_api_key" translatable="false">AIzaSyC1BXs0xK2f5zlROSyxYsbQEweYIBDck38</string>
-    <string name="google_app_id" translatable="false">1:886405585041:android:8dabe8b0e3861c2d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1BXs0xK2f5zlROSyxYsbQEweYIBDck38</string>
-    <string name="google_storage_bucket" translatable="false">devfest-22f93.appspot.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">554063712194</string>
+    <string name="google_api_key" translatable="false">AIzaSyDigTtFOMqeJRuyaZiJPXQGuWkwMtNohKs</string>
+    <string name="google_app_id" translatable="false">1:554063712194:android:ae623c2268ad7693b2505b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDigTtFOMqeJRuyaZiJPXQGuWkwMtNohKs</string>
+    <string name="google_storage_bucket" translatable="false">demos-87d35.appspot.com</string>
     <string name="message_permission">La aplicación necesita un permiso especial para poder acceder a la cámara</string>
     <string name="message_play_services">Necesita una nueva version de Google Play Services</string>
     <string name="password_toggle_content_description">Toggle password visibility</string>
@@ -750,7 +749,7 @@
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="project_id" translatable="false">devfest-22f93</string>
+    <string name="project_id" translatable="false">demos-87d35</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="text">Textos</string>
