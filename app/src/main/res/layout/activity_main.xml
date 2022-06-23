@@ -7,14 +7,14 @@
     tools:context=".Main">
 
 
-    <com.agos.devfest2018.util.CameraSourcePreview
+    <com.agos.tsf2022.util.CameraSourcePreview
         android:id="@+id/firePreview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true">
 
-        <com.agos.devfest2018.util.GraphicOverlay
+        <com.agos.tsf2022.util.GraphicOverlay
             android:id="@+id/fireFaceOverlay"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -22,7 +22,7 @@
             android:layout_alignParentTop="true"
             android:layout_alignParentBottom="true" />
 
-    </com.agos.devfest2018.util.CameraSourcePreview>
+    </com.agos.tsf2022.util.CameraSourcePreview>
 
     <TextView
         android:layout_width="match_parent"
