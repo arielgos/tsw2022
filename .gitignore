@@ -6,3 +6,5 @@ build/
 #files
 *.dex
 *.class
+*.bin
+*.lock
